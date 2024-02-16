@@ -13,3 +13,6 @@
 - [Bateria 1.4](bateria1.4.py)
   ### Bucles
 - [Factorial For](factorial.py)
+
+  ### Nau espacial
+  - ![Nau espacial](pixil-frame-0.png)
